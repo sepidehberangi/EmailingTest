@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "EmailingTest", "EmailingTest\EmailingTest.dtproj", "{10BBF04B-F43C-4FD3-A59F-D13F6424E531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10BBF04B-F43C-4FD3-A59F-D13F6424E531}.Development|Default.ActiveCfg = Development
+		{10BBF04B-F43C-4FD3-A59F-D13F6424E531}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88575C4F-5D7B-4A6A-9296-4C60D2AA7951}
+	EndGlobalSection
+EndGlobal
